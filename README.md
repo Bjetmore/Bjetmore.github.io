@@ -38,3 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-GtWoT" src="https://datawrapper.dwcdn.net/GtWoT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="640"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-GtWoT" src="https://datawrapper.dwcdn.net/GtWoT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="640"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
